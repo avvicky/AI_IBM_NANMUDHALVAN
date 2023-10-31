@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Market Basket Analysis using Apriori Algorithm and Association Rule Mining
 
 This Jupyter notebook contains Python code for performing Market Basket Analysis on sales data using the Apriori algorithm and generating association rules. The analysis includes data cleaning, exploratory data analysis (EDA), and association rule mining. 
@@ -49,3 +50,6 @@ This notebook is memory-intensive and requires at least 20GB of RAM to run succe
 ## Note
 
 This notebook is resource-intensive and requires substantial computational power, especially RAM. Ensure your system can handle the analysis.
+=======
+# AI_IBM_NANMUDHALVAN
+>>>>>>> 3473f9e0d918ebcf520c45e7bcc1aa45109f872a
