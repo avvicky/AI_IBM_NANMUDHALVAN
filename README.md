@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Market Basket Analysis using Apriori Algorithm and Association Rule Mining
 
 This Jupyter notebook contains Python code for performing Market Basket Analysis on sales data using the Apriori algorithm and generating association rules. The analysis includes data cleaning, exploratory data analysis (EDA), and association rule mining. 
